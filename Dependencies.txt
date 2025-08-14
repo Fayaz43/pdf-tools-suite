@@ -1,0 +1,20 @@
+# PDF Tools Suite - Dependencies
+
+# Core PDF Processing Engine
+pypdf>=3.0.0
+
+# Alternative PDF Library (fallback)
+PyPDF2>=3.0.0
+
+# Professional Watermarking
+reportlab>=4.0.0
+
+# Image Processing Support
+Pillow>=10.0.0
+
+# GUI Framework (typically included with Python)
+# tkinter - Built into Python standard library
+
+# Optional: Enhanced Performance
+# numpy>=1.21.0
+# Pillow-SIMD>=7.0.0
